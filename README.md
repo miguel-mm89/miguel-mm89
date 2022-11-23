@@ -5,7 +5,7 @@
 
 ### I'm Miguel FullStack web developer
 
-I am passionate on web design and programming language such as React-js, Node-js, redux, 
+I am passionate on web design and programming language such as javaScript, React-js, Node-js, redux, 
 Express-js, mySQL, Postgres, and other. 
 
 Currently, I'm finishing the bootcamp soyHenry, a bootcamp of more than 800 hours of theoretical and practical programming.
