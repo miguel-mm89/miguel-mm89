@@ -1,15 +1,16 @@
 ### Hi there 👋 
 
+<img src="https://www.pinclipart.com/picdir/big/414-4146837_x-transparent-programming-png-clipart.png" min-width="400px" max-width="400px" width="400px" align="right" margin="0 0 0 0" alt="Computador iuriCode">
 
-<img height="200" src="https://e7.pngegg.com/pngimages/115/631/png-clipart-programmer-computer-programming-others-miscellaneous-web-design.png" />
 
 ### I'm Miguel FullStack web developer
 
 I'm a fullStack web developer. I am passionate on web design and programming language such as React-js, Node-js, redux, 
 Express-js, mySQL, Postgres, and other. 
 
-currently, I'm finishing the bootcamp soyHenry, a bootcamp of more than 700 hours of theoretical and practical programming
-where I lern 
+currently, I'm finishing the bootcamp soyHenry, a bootcamp of more than 800 hours of theoretical and practical programming.
+I have already finished some projects that you can find at my repositories: "dogs-pi" is my individual project where i only had to use React, JavaScript, Node-js, PostgresSQL and Redux, no other frameworks. 
+
 
 
 
