@@ -8,7 +8,7 @@
 I am passionate on web design and programming language such as javaScript, React-js, Node-js, redux, 
 Express-js, mySQL, Postgres, and other. 
 
-Currently, I'm finishing the bootcamp soyHenry, a bootcamp of more than 800 hours of theoretical and practical programming.
+Currently, I've already finished the bootcamp soyHenry, a bootcamp of more than 800 hours of theoretical and practical programming.
 I have already finished some projects that you can find at my repositories: "dogs-pi" is my individual project where i only had to use React, JavaScript, Node-js, PostgresSQL and Redux, no other frameworks or libraries. In the other hand "e-guitar-REACT" is a group project of 6 people where we were free of using the technologies, libraries, and frameworks we need.
 
 I'm actually looking for my first experience in a IT company.
